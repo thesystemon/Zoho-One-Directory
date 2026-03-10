@@ -1,0 +1,20 @@
+- **Dashboard** – Directory ki overall activity ka summary, jaise total users, active sessions, recent logins, etc.
+- **Organization** – Aapki company ka profile, logo, brand color, aur organization-level settings.
+- **Applications** – Zoho apps (like Mail, CRM, People) aur third-party apps jinhe aap SSO (Single Sign-On) se connect kar sakte ho.
+- **Users** – Sabhi employees ya members ki list, unhe add karna, edit karna, aur unki profile details manage karna.
+- **Admins** – Kaun kaun admin hai, unke roles aur permissions (super admin, help desk admin, etc.).
+- **Integrations** – Bahar ki services se connection jaise Slack, Google Workspace, Microsoft 365, etc.
+- **Groups** – Users ke groups banakar unhe ek saath permissions ya apps assign karna.
+- **Portals** – Alag portals jaise customer portal ya partner portal create karna.
+- **Domains** – Apna custom domain verify karna aur usse Zoho services se link karna.
+- **Controls** – Access policies aur governance rules set karna (like IP restrictions, login frequency, etc.).
+- **Security** – Multi-Factor Authentication (MFA), password policies, aur trust rules.
+- **Device Management** – MDM (Mobile Device Management) ya device compliance track karna.
+- **LDAP** – Agar aapke paas on-premise LDAP server hai to usse sync karna.
+- **RADIUS** – Network devices ke authentication ke liye RADIUS setup (like Wi-Fi, VPN).
+- **Directory Stores** – Multiple directories ko ek saath map karna (jaise Zoho Directory + Active Directory + LDAP).
+- **Marketplace** – Zoho Marketplace se additional apps ya extensions integrate karna.
+- **Reports** – Directory usage, login activity, audit logs ke detailed reports.
+- **Anomaly Detection** – AI-based unusual activity alerts (jaise suspicious login location).
+- **What's New** – Zoho Directory ke latest features aur updates.
+
